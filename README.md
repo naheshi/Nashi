@@ -8,13 +8,9 @@ In the future... maybe
 - 3D porn
 - [x] 8Ball 
 - [ ] NSFW gif
-- [ ] MiniGames
-- Snake
-- Fishy
-- Slots
-- Hangman
-- Flood
+- [ ] MiniGames 2P
 - [ ] Money system
 ## :star2: Features
 * Hentai img
 * 8ball 
+* MiniGames 1P
